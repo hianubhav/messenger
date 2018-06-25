@@ -1,5 +1,3 @@
-RESTful API for Messenger App
-
 Project description
 
 • API allows client application to retrieve user profiles, messages and comments in JSON/XML format.
